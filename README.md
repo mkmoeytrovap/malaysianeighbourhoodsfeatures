@@ -15,6 +15,9 @@ a delivery zone, a census mashup or a school-catchment map has to draw them agai
 
 This is that layer, released so nobody has to redraw it.
 
+Coverage so far:
+<img width="699" height="626" alt="image" src="https://github.com/user-attachments/assets/bed27801-8c1b-4e50-b968-81b5eaaa69e5" />
+
 ## What's in the file
 
 A single `FeatureCollection`, `malaysianeighbourhoodsfeatures.geojson`, in **CRS84 / WGS 84**
